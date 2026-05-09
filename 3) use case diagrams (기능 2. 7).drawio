@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="페이지-1" id="MlH5iWnzRAeUQNU-hKFR">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8-cpyYjUO7pJ5a6HW5gD-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Member" vertex="1">
+          <mxGeometry height="60" width="30" x="50" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="8-cpyYjUO7pJ5a6HW5gD-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="90" y="399.8" as="sourcePoint" />
+            <mxPoint x="180" y="399.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8-cpyYjUO7pJ5a6HW5gD-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="회원 탈퇴" vertex="1">
+          <mxGeometry height="80" width="120" x="180" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="nW0LeRYrENhK1wAIfmp1-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="응답한 설문 조회" vertex="1">
+          <mxGeometry height="80" width="120" x="180" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="nW0LeRYrENhK1wAIfmp1-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.05;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;" target="nW0LeRYrENhK1wAIfmp1-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="90" y="400" as="sourcePoint" />
+            <mxPoint x="130" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nW0LeRYrENhK1wAIfmp1-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="응답한 설문 수정" vertex="1">
+          <mxGeometry height="80" width="120" x="180" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="nW0LeRYrENhK1wAIfmp1-5" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.388;entryDx=0;entryDy=0;entryPerimeter=0;" target="nW0LeRYrENhK1wAIfmp1-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="90" y="400" as="sourcePoint" />
+            <mxPoint x="130" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nW0LeRYrENhK1wAIfmp1-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;dashed=1;" target="nW0LeRYrENhK1wAIfmp1-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="510" as="sourcePoint" />
+            <mxPoint x="300" y="520.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nW0LeRYrENhK1wAIfmp1-11" connectable="0" parent="nW0LeRYrENhK1wAIfmp1-10" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nW0LeRYrENhK1wAIfmp1-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="응답한 설문 취소" vertex="1">
+          <mxGeometry height="80" width="120" x="440" y="470" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
