@@ -1,0 +1,1 @@
+- [usecase diagram 링크](https://drive.google.com/file/d/1TjTd6ehWs88X_CBG1BvAuCDrotsB-MLs/view?usp=sharing)
